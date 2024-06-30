@@ -1,3 +1,5 @@
+# This is a pseudo-code for part 2 of the assignment and it may have some errors.
+
 lines = []
 data = []
 
